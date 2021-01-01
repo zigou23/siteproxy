@@ -1,6 +1,6 @@
 # siteproxy
-反向代理, 免翻墙访问youtube/twitter/google, 支持telegram web登录.
-pure web page proxy to google/youtube, zero configuration from client side. Reverse proxy to all internet. 一键部署，翻墙利器。
+反向代理, 免-访问youtube/twitter/google, 支持telegram web登录.
+pure web page proxy to google/youtube, zero configuration from client side. Reverse proxy to all internet. 一键部署，-利器。
 
 ```
                                                  +----> google/youtube
@@ -161,6 +161,4 @@ user browser +-------------->+ siteproxy      +-------> wikipedia
 8. done, now you can access your domain name from browser.
 ```
 ### 联系方式
-Telegram群: @siteproxy
-<br />
-email: netptop@gmail.com
+[@netptop/siteproxy](https://github.com/netptop/siteproxy)
